@@ -1,0 +1,500 @@
+   59  ls -la java/semana-2/metodos
+   60  find java/semana-2/metodos -type f
+   61  git check-ignore -v java/semana-2/metodos/untitled/src/Main.java
+   62  [200~find java/semana-2/metodos -name .git -type d~
+   63  find java/semana-2/metodos -name .git -type d
+   64  find java/semana-2/metodos -name .git -type d
+   65  git status
+   66  git add java/semana-2
+   67  git status
+   68  git commit -m "lab-2 methods"
+   69  git push
+   70  git status
+   71  git push all
+   72  git astatus
+   73  git commit --amend -m "ejercicio intro java"
+   74  git add semana-2 
+   75  git astatus
+   76  git astatus
+   77  git add semana-2
+   78  gut status
+   79  git status
+   80  git add .
+   81  git commit -m "refactor code Static Scanner."
+   82  git push
+   83  git branch 
+   84  git push origin pranch master
+   85  git push origin master
+   86  git status
+   87  git push
+   88  git status
+   89  git add .
+   90  git commit -m "added ejercicios mths with parameters,no-paramiter. and void and static  returns"
+   91  git push origin master
+   92  git status
+   93  git push
+   94  git status
+   95  git status
+   96  git add .
+   97  git commit -m "fixing issue"
+   98  git 
+   99  git push all
+  100  git push 
+  101  git push origin master
+  102  git ls -files
+  103  git ls-files
+  104  git status
+  105  git remote -v
+  106  git branch backup-java-local
+  107  git fetch origin
+  108  git log --oneline --graph --decorate --all -15
+  109  git push origin master --force-with-lease
+  110  git push origin master --force-with-lease
+  111  git status
+  112  git add .
+  113  git commit -m "fixing error"
+  114  git add .
+  115  git status
+  116  ls 
+  117  ls -la
+  118  ls -a
+  119  git push 
+  120  git log --oneline --all --decorate -10
+  121  git branch backup-local
+  122  git fitch origin
+  123  git log --oneline origin/master..master
+  124  git marge origin/master
+  125  git marge origin/master
+  126  git merge origin/master
+  127  git add .
+  128  git commit -m "adding LAB-3 OOP"
+  129  git push origin master
+  130  [200~git branch backup-local
+  131  git push origin master --force-with-lease
+  132  git push origin master --force-with-lease
+  133  git branch backup-local
+  134  git branch backup-local
+  135  git fetch origin
+  136  git branch -vv
+  137  git push origin master --force-with-lease
+  138  git status
+  139  git add .
+  140  git status
+  141  git commit -m "adding LAB OOP"
+  142  git push origin master
+  143  git status 
+  144  git push all
+  145  git push
+  146  git status
+  147  git lis-files
+  148  git ls-files
+  149  git status --ignored
+  150  git remote -v
+  151  git log --online -5
+  152  git log --oneline -5
+  153  git show --stat HEAD
+  154  git log --oneline --all -10
+  155  git log --all --diff-filter=D --summary
+  156  git show --stat 0f28a01
+  157  git show --name-status 0f28a01
+  158  find .. -type f -name "*.java" | sort
+  159  cp ../dia-1/src/ejercicio1.java java/semana-1/dia-1/src/ejercicio1.java
+  160  [200~git status~
+  161  git status
+  162  git add java/semana-1/dia-1/src/ejercicio1.java
+  163  git commit -m "Update ejercicio1"
+  164  git push origin master
+  165  git status
+  166  diff ../dia-1/src/ejercicio1.java java/semana-1/dia-1/src/ejercicio1.java
+  167  git add .
+  168  git status
+  169  git push
+  170  git status
+  171  git push 
+  172  git push origin master
+  173  git status
+  174  git add semana-2/
+  175  git add semana-2/
+  176  git status
+  177  git push origin master
+  178  git pull
+  179  git pull master
+  180  git pull origin master
+  181  git status
+  182  git add semana-2/
+  183  git push 
+  184  git status
+  185  git add .
+  186  git commit -m "issue"
+  187  gut push
+  188  git push
+  189  git push --set-upstream origin master
+  190  git push -u origin master
+  191  git status 
+  192  git rm -r --cached .idea
+  193  git add .gitignore
+  194  git commit -m "Ignore IntelliJ IDEA files"
+  195  git push
+  196  git status
+  197  git status
+  198  git commit -m "fixing issues"
+  199  git add .idea/
+  200  git push
+  201  git status
+  202  git restore --staged .idea/
+  203  git status
+  204  git add .idea/
+  205  git commit -m "fixing all isuses acours in commits verions"
+  206  git push 
+  207  git status
+  208  git ls-files | grep -E '(^|/)\.idea/|\.iml$'
+  209  git rm -r --cached .idea
+  210  git rm -r --cached java/.idea
+  211  git rm --cached *.iml
+  212  git rm --cached java/*.iml
+  213  git rm --cached java/*.iml
+  214  git rm -r --cached java/.idea
+  215  git add .gitignore
+  216  git rev-parse --show-toplevel
+  217  git status
+  218  cd ..
+  219  touch gitignore
+  220  touch .gitignore
+  221  code .gitigonre
+  222  git status
+  223  git add .gitignore
+  224  git status
+  225  code .gitignore
+  226  git status
+  227  git status
+  228  gi commit  -m "Clean  repository and ignore files"
+  229  git commit  -m "Clean  repository and ignore files"
+  230  git push 
+  231  git status
+  232  [200~git add .gitignore
+  233  git status
+  234  git commit -m "Clean repository and ignore IntelliJ files"
+  235  git push
+  236  git add .gitignore
+  237  git commit -m "Clean repository and ignore IntelliJ files"
+  238  git push
+  239  git status
+  240  git ls-files | grep -E '(^|/)\.idea/|\.iml$'
+  241  git rm -r --cached .idea
+  242  git status
+  243  git commit -m "Remove IntelliJ project files from repository"
+  244  git push
+  245  git ls-files | grep -E '(^|/)\.idea/|\.iml$'
+  246  git rm -r --cached java/semana-1/dia-1/.idea
+  247  git rm -r --cached java/semana-2/.idea
+  248  git rm -r --cached java/semana-2/metodos/.idea
+  249  git status
+  250  git commit -m "Remove remaining IntelliJ workspace files"
+  251  git push
+  252  git status
+  253  git ls-files | grep -E
+  254  git ls-files | grep 
+  255  git ls-files | grep '(^|/)\.idea/|\.iml$'
+  256  git status
+  257  ls la
+  258  ls
+  259  add 
+  260  git add semana-2/bicicleta
+  261  git add java/semana-2/bicicleta
+  262  ls java/semana-2/
+  263  ls 
+  264  ls java
+  265  ls semana-2
+  266  ls semana-2
+  267  ls semana-2
+  268  ls semana-2ls
+  269  ls
+  270  ls java 
+  271  ls semana-2/
+  272  ls java/semana-2
+  273  git status
+  274  git add 
+  275  git add .
+  276  git status
+  277  git commit -m "Add Bicicleta project"
+  278  git push
+  279  git status
+  280  git add java/semana-2/fiesta
+  281  git add */semana-2/fiesta
+  282  git commit -m "Arrylist add remove actulizar la lista, y listas  ordernar y desordenada"
+  283  git push
+  284  git status
+  285  git init
+  286  git remote add origin git@github.com:Al-issawi/Exersices-Java.git
+  287  git status
+  288  git add .
+  289  git rm -r --cached .
+  290  touch .gitignore
+  291  notepad .gitignore
+  292  ls -la
+  293  git add .
+  294  git status
+  295  git commit -m "adding java exercies and parctice projects"
+  296  git push -u origin master
+  297  git status
+  298  git config --global core.autocrlf true
+  299  git config --global core.autocrlf
+  300  git init 
+  301  git remote add origin https://github.com/al-issawi/API-Swagger-Spring-boot.git
+  302  git branch -M master
+  303  git push -u origin master
+  304  git git add .
+  305  git add .
+  306  git status
+  307  git commit -m "simple api"
+  308  git push 
+  309  git status
+  310  git config --global core.autocrlf true
+  311  git config --global core.autocrlf 
+  312  git remote add origin https://github.com/Al-issawi/API-Swagger-Spring-boot.git
+  313  git branch -M master
+  314  git push -u origin master
+  315  git status
+  316  git add 
+  317  git add ,
+  318  git add ,.
+  319  git add .
+  320  git status
+  321  git push 
+  322  git status
+  323  git add semana-2/arrylist-objetos/
+  324  git commit -m "OOP CRUD con arrylist"
+  325  git push
+  326  git status
+  327  git status
+  328  git add java/semana-2/arraylist-Objetos2
+  329  git add java/semana-2/Arraylist-Objetos2
+  330  git add java/semana-2/Arrylist-Objetos2
+  331  git add java/semana-2/Arrylist-Objetos2/
+  332  git status
+  333  git commit -m "adding ejercicio juguete"
+  334  git push
+  335  git status
+  336  git status
+  337  git status
+  338  git add java/semana-2/ExtendsClases-ZAPATERIA/
+  339  git status
+  340  git commit -m "herencia clases"
+  341  git push
+  342  git status
+  343  git status
+  344  git add java/semana-3/Static/
+  345  git commit -m "metodos  staticos"
+  346  git push
+  347  git status
+  348  echo "# Examen-JAVA-IRONHACK" >> README.md
+  349  git init
+  350  git add mohammed alisawi-examen.java
+  351  git status
+  352  git add mohammed alisawi-examen-java
+  353  mohammed alisawi-examen-java
+  354  git add mohammed-alisawi-examen-java
+  355  gi status
+  356  git status
+  357  git add readme.md
+  358  git commit -m "examen"
+  359  git branch -M master
+  360  git remote add origin https://github.com/Al-issawi/Examen-JAVA-IRONHACK.git
+  361  git push -u origin master
+  362  git status
+  363  git status
+  364  git status
+  365  git add .
+  366  git commit -m "creating the generation service y emplements "
+  367  git push branch -m master
+  368  git push all 
+  369  git push
+  370  git status
+  371  git status;
+  372  git status
+  373  git add .
+  374  git commit -m "Generating mapping service for CROD operations "
+  375  git push 
+  376  git status
+  377  git status
+  378  git add semana-4 Database\bicicletas
+  379  git add semana-4 Database\bicicletas
+  380  git add semana-4-Database\bicicletas
+  381  git status 
+  382  git add java/semana-4-Database/biciletas
+  383  git status
+  384  git add java/semana-4-Database/biciletas
+  385  git add java/semana-4-Database/bicicletas/
+  386  git commit -m "ecamen de la base de datos bibiceletas"
+  387  git push 
+  388  git status
+  389  git add semana-4-Database/Database
+  390  git status
+  391  git push
+  392  git status
+  393  git add semana-4-Database/Database/libreria
+  394  git status
+  395  git push
+  396  git astatus 
+  397  git status
+  398  git add semana-4-Database/Database/libreria/
+  399  git status
+  400  git push
+  401  git add semana-4-Database/Database/libreria
+  402  git push
+  403  git add semana-4-Database/Database/
+  404  git push
+  405  git status
+  406  git add semana-4-Database/Database/libreria
+  407  git commit -m "adding libreria ERR diagrama con los seleciones "
+  408  git push
+  409  git status
+  410  git add semana-4-Databases
+  411  git add semana-4-Databases/
+  412  git add java/semana-4-Databases/
+  413  git status
+  414  git add java/semana-4-Database/
+  415  git status
+  416  git add semana-5/
+  417  git status java/semana-5/
+  418  git commit -m "crear JDBS-1"
+  419  git push 
+  420  git status
+  421  git add java/semana-4-Databases
+  422  ls -la java/semana-4-Database/
+  423  git check-ignore -v java/semana-4-Database/Database/joins_lab.sql
+  424  git status --short --untracked-files=all -- java/semana-4-Database/
+  425  git add java/semana-4-Database/
+  426  git commit -m "crear la base de tadps de los labs"
+  427  git push
+  428  git status
+  429  git add java/semana-5/
+  430  git status
+  431  git commit -m "lab JDBC 1"
+  432  git push
+  433  [200~cd "C:\Users\mdali\OneDrive\Escritorio\ironhack\BackEnd\java\entrega-parcial-modulo-3-final\entrega-parcial-modulo-3"
+  434  git pull --rebase origin master
+  435  cd "C:\Users\mdali\OneDrive\Escritorio\ironhack\BackEnd\java\entrega-parcial-modulo-3-final\entrega-parcial-modulo-3"
+  436  git pull --rebase origin master
+  437  git push
+  438  $repo = "C:\Users\mdali\OneDrive\Escritorio\ironhack\BackEnd\java\entrega-parcial-modulo-3-final\entrega-parcial-modulo-3"
+  439  git -C $repo pull --rebase origin master
+  440  git -C $repo push origin master
+  441  git push origin master
+  442  git -C $repo push origin master
+  443  git -C $repo pull --rebase origin master
+  444  git -C repo pull --rebase origin master
+  445  git -C $repo push origin master
+  446  git -C $repo pull --rebase origin master
+  447  git status
+  448  git status
+  449  git add javadoc
+  450  git status
+  451  git commit -m "java doc"
+  452  git push 
+  453  git status
+  454  git add bash-1
+  455  git add gitbash-1
+  456  git commit -m"se creió gitbash "
+  457  git push
+  458  git clone https://github.com/Al-issawi/examefinal.git
+  459  git status
+  460  git pull
+  461  git clone https://github.com/Al-issawi/Examen-final-model3-mohammedAlisawi.git
+  462  git status
+  463  git pull
+  464  git status
+  465  git pusll
+  466  git status
+  467  git pull
+  468  git status
+  469  git push
+  470  git clone git@github.com:Al-issawi/Examen-final-model3-mohammedAlisawi.git
+  471  git status
+  472  git pull 
+  473  git status
+  474  clear
+  475  git clone git-desde-GitBash
+  476  [200~git clone https://github.com/Al-issawi/git-desde-GitBash.git
+  477  git clone https://github.com/Al-issawi/git-desde-GitBash.git
+  478  git status
+  479  git pull
+  480  git status
+  481  echo "# git-desde-GitBash" >> info.txt
+  482  git status
+  483  cd git-desde-GitBash
+  484  echo "Primer archivo" > info.txt
+  485  git add info.txt
+  486  git commit -m "Primer commit"
+  487  git push -u origin main
+  488  cd ..
+  489  [200~git clone https://github.com/Al-issawi/git-desde-GitBash.git
+  490  cd git-desde-GitBash
+  491  echo "Primer archivo" > info.txt
+  492  git add info.txt
+  493  git commit -m "Primer commit"
+  494  git status
+  495  echo "Segundo cambio" >> info.txt
+  496  git add info.txt
+  497  git commit -m "Segundo commit"
+  498  git push
+  499  git clone https://github.com/USUARIO/git-desde-GitBash.git
+  500  cd git-desde-GitBash
+  501  echo "Primer archivo del examen" > info.txt
+  502  git add info.txt
+  503  git commit -m "Primer commit"
+  504  git push -u origin main
+  505  git branch -M main
+  506  git push -u origin -main
+  507  echo "Primer archivo del examen" > info.txt
+  508  git push -u origin -main
+  509  git branch -M main
+  510  git push -u origin main
+  511* 
+  512  [200~
+  513  git branch -M main
+  514  git push -u origin main
+  515  git status
+  516  echo "Segundo cambio" >> info.txt
+  517  git add info.txt
+  518  clear
+  519  git commit -m "Segundo commit"
+  520  git push
+  521  git log --online
+  522  git log --oneline
+  523  git status
+  524  git log --oneline -2
+  525  git switch -c dev
+  526  echo "Cambio realizado en rama2" >> info.txt
+  527  git add info.txt
+  528  git commit -m "Tercer commit"
+  529  git push -u origin dev
+  530  git switch dev
+  531  git switch -c master
+  532  echo "Cambio realizado en rama3" >> info.txt
+  533  git add info.txt
+  534  git commit -m "Cuarto commit"
+  535  git switch master 
+  536  git merge dev 
+  537  git switch main
+  538  git merge dev
+  539  git merege master
+  540  git merge master
+  541  git merge master
+  542  git push
+  543  echo "Cambio final en master" >> info.txt
+  544  git add info.txt
+  545  git commit -m "Quinto commit"
+  546  git push
+  547  git man
+  548  git --help
+  549  git push 
+  550  git -d master
+  551  git branch -d master
+  552  git branch -d dev
+  553  git log > tuNombre_gitlog.txt
+  554  git log --oneline > tuNombre_gitlog_oneline.txt
+  555  history > tuNombre_historial.txt
+  556  history > tuNombre_historial.txt
+  557  git log > mohammedAlisawi_gitlog.txt
+  558  history > MohammedAlisawi_historial.txt

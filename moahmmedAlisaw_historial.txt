@@ -1,0 +1,100 @@
+  461  git clone https://github.com/Al-issawi/Examen-final-model3-mohammedAlisawi.git
+  462  git status
+  463  git pull
+  464  git status
+  465  git pusll
+  466  git status
+  467  git pull
+  468  git status
+  469  git push
+  470  git clone git@github.com:Al-issawi/Examen-final-model3-mohammedAlisawi.git
+  471  git status
+  472  git pull 
+  473  git status
+  474  clear
+  475  git clone git-desde-GitBash
+  476  [200~git clone https://github.com/Al-issawi/git-desde-GitBash.git
+  477  git clone https://github.com/Al-issawi/git-desde-GitBash.git
+  478  git status
+  479  git pull
+  480  git status
+  481  echo "# git-desde-GitBash" >> info.txt
+  482  git status
+  483  cd git-desde-GitBash
+  484  echo "Primer archivo" > info.txt
+  485  git add info.txt
+  486  git commit -m "Primer commit"
+  487  git push -u origin main
+  488  cd ..
+  489  [200~git clone https://github.com/Al-issawi/git-desde-GitBash.git
+  490  cd git-desde-GitBash
+  491  echo "Primer archivo" > info.txt
+  492  git add info.txt
+  493  git commit -m "Primer commit"
+  494  git status
+  495  echo "Segundo cambio" >> info.txt
+  496  git add info.txt
+  497  git commit -m "Segundo commit"
+  498  git push
+  499  git clone https://github.com/USUARIO/git-desde-GitBash.git
+  500  cd git-desde-GitBash
+  501  echo "Primer archivo del examen" > info.txt
+  502  git add info.txt
+  503  git commit -m "Primer commit"
+  504  git push -u origin main
+  505  git branch -M main
+  506  git push -u origin -main
+  507  echo "Primer archivo del examen" > info.txt
+  508  git push -u origin -main
+  509  git branch -M main
+  510  git push -u origin main
+  511* 
+  512  [200~
+  513  git branch -M main
+  514  git push -u origin main
+  515  git status
+  516  echo "Segundo cambio" >> info.txt
+  517  git add info.txt
+  518  clear
+  519  git commit -m "Segundo commit"
+  520  git push
+  521  git log --online
+  522  git log --oneline
+  523  git status
+  524  git log --oneline -2
+  525  git switch -c dev
+  526  echo "Cambio realizado en rama2" >> info.txt
+  527  git add info.txt
+  528  git commit -m "Tercer commit"
+  529  git push -u origin dev
+  530  git switch dev
+  531  git switch -c master
+  532  echo "Cambio realizado en rama3" >> info.txt
+  533  git add info.txt
+  534  git commit -m "Cuarto commit"
+  535  git switch master 
+  536  git merge dev 
+  537  git switch main
+  538  git merge dev
+  539  git merege master
+  540  git merge master
+  541  git merge master
+  542  git push
+  543  echo "Cambio final en master" >> info.txt
+  544  git add info.txt
+  545  git commit -m "Quinto commit"
+  546  git push
+  547  git man
+  548  git --help
+  549  git push 
+  550  git -d master
+  551  git branch -d master
+  552  git branch -d dev
+  553  git log > tuNombre_gitlog.txt
+  554  git log --oneline > tuNombre_gitlog_oneline.txt
+  555  history > tuNombre_historial.txt
+  556  history > tuNombre_historial.txt
+  557  git log > mohammedAlisawi_gitlog.txt
+  558  history > MohammedAlisawi_historial.txt
+  559  git log --oneline > mohammedAlisawi_gitlog_oneline.txt
+  560  history 100 > moahmmedAlisaw_historial.txt
